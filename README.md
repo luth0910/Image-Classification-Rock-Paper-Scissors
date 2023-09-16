@@ -1,1 +1,1 @@
-# Submission-Dicoding-Machine-Learning-untuk-Pemula
+# Submission Dicoding Machine Learning untuk Pemula
